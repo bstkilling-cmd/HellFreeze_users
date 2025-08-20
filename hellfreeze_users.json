@@ -18,13 +18,13 @@
         "email": "coowner@example.com"
     },
     "user1": {
-        "password": "userpass",
+        "password": "",
         "role": "user",
         "expiry": "2099-12-31",
         "email": ""
     },
     "Test": {
-        "password": "Test",
+        "password": "",
         "role": "staff",
         "expiry": "2028-05-16",
         "email": ""
@@ -35,4 +35,5 @@
         "expiry": "2053-01-05",
         "email": ""
     }
+
 }
