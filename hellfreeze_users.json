@@ -22,18 +22,7 @@
         "role": "user",
         "expiry": "2099-12-31",
         "email": ""
-    },
-    "Test": {
-        "password": "",
-        "role": "staff",
-        "expiry": "2028-05-16",
-        "email": ""
-    },
-    "addy": {
-        "password": "Test",
-        "role": "co-owner",
-        "expiry": "2053-01-05",
-        "email": ""
-    }
+   
 
 }
+
